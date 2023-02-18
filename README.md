@@ -17,7 +17,18 @@
   
 </div><br/>
 
-<p>Desenvolvedor Front-End com foco em se tornar Full-Stack!</p>
+<div style="text-align: center">
+  <h1> Meus principais projetos : </h1>
+  <ul>
+    <li>https://casarimdev.github.io/Projeto-ClipBoard-LandingPage/clipboard-landing-page-master/pages/home
+    <li>https://casarimdev.github.io/Space-Page/home/index
+    <li>https://casarimdev.github.io/Formulario-Bootstrap/index
+    <li>https://casarimdev.github.io/Site-Real-psicologa/paginas/index
+    <li>https://casarimdev.github.io/projeto-cordel/cordel
+    <li>https://casarimdev.github.io/projeto-social1/social
+    <li>https://casarimdev.github.io/ex010-flex-grid/
+
+<h1>Desenvolvedor Front-End com foco em se tornar Full-Stack!</h1>
 
 
 
