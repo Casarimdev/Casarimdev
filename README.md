@@ -20,6 +20,7 @@
 <div style="text-align: center">
   <h1> Meus principais projetos : </h1>
   <ul>
+    <li>https://casarimdev.github.io/Projeto-Calculadora.Js/
     <li>https://casarimdev.github.io/Projeto-ClipBoard-LandingPage/clipboard-landing-page-master/pages/home
     <li>https://casarimdev.github.io/Space-Page/home/index
     <li>https://casarimdev.github.io/Formulario-Bootstrap/index
