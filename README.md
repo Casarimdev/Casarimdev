@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucascasarim_/)
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-casarim-1b2886261/) <br> E-mail : casarim.dev@gmail.com
 
-![Casarim´s GitHub stats](https://github-readme-stats.vercel.app/api?username=casarimdev&show_icons=true&theme=transparent)
+<!-- ![Casarim´s GitHub stats](https://github-readme-stats.vercel.app/api?username=casarimdev&show_icons=true&theme=transparent) -->
 
 ## Tecnologias que tenho conhecimento e uso no meu dia a dia
 <div style="display: inline_block">
