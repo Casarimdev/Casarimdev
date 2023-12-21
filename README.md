@@ -21,6 +21,7 @@
   <h1> Meus principais projetos : </h1>
   <ul>
     <li>https://casarimdev.github.io/UltraIT-site/pages/index.html
+    <li>https://casarimdev.github.io/MyProfile/pages/index
     <li>https://casarimdev.github.io/Projeto-Calculadora.Js/
     <li>https://casarimdev.github.io/Projeto-ClipBoard-LandingPage/pages/home
     <li>https://casarimdev.github.io/Space-Page/home/index
